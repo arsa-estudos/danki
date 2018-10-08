@@ -3,3 +3,4 @@
   $sql = $pdo->prepare("SELECT * FROM clientes");
   $sql-> execute();
 ?>
+
